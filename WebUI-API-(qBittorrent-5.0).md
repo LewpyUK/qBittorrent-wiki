@@ -2894,10 +2894,10 @@ Name: `cloneRule`
 
 Parameters:
 
-| Parameter    | Type    | Description                               |
-| ------------ | ------- | ----------------------------------------- |
-| `sourceName` | string  | Source rule name (e.g. "Punisher")        |
-| `cloneName`  | string  | New clone rule name (e.g. "The Punisher") |
+| Parameter    | Type   | Description                               |
+| ------------ | ------ | ----------------------------------------- |
+| `sourceName` | string | Source rule name (e.g. "Punisher")        |
+| `cloneName`  | string | New clone rule name (e.g. "The Punisher") |
 
 **Returns:**
 
