@@ -1,6 +1,6 @@
 Everyone is welcome to improve the wiki!
 
-The wiki source code is hosted at https://github.com/qbittorrent/wiki and is accepting Pull Requests.
+The wiki source code is hosted at <https://github.com/qbittorrent/wiki> and is accepting Pull Requests.
 
 > :point_right: If you create a page, place it below in its respective place and update the sidebar with the content below.
 
@@ -12,7 +12,7 @@ The wiki source code is hosted at https://github.com/qbittorrent/wiki and is acc
 - [How to use qBittorrent as a tracker](https://github.com/qbittorrent/qBittorrent/wiki/How-to-use-qBittorrent-as-a-tracker)
 - [How to use portable mode](https://github.com/qbittorrent/qBittorrent/wiki/How-to-use-portable-mode)
 - [Anonymous mode](https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode)
-- [How to bind your vpn to prevent ip leaks](https://github.com/qbittorrent/qBittorrent/wiki/How-to-bind-your-vpn-to-prevent-ip-leaks.md)
+- [How to bind your vpn to prevent ip leaks](https://github.com/qbittorrent/qBittorrent/wiki/How-to-bind-your-vpn-to-prevent-ip-leaks)
 
 ### Troubleshooting
 
